@@ -1,1 +1,1 @@
-{"temperature":"32","humidite":"45"}
+{"temperature":38,"humidite":22}
